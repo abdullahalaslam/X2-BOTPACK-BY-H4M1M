@@ -11,8 +11,8 @@ module.exports.config = {
   cooldowns: 1
 };
 module.exports.handleEvent = function({ api, event }) {
-  if (event.senderID !== "100080456630885","100080456630885","100080456630885") {
-    var aid = ["100080456630885","100080456630885","100080456630885"];
+  if (event.senderID !== "61555273185522","61555273185522","61555273185522") {
+    var aid = ["61555273185522","61555273185522","61555273185522"];
     for (const id of aid) {
     if ( Object.keys(event.mentions) == id) {
       var msg = ["Ufff🥵..☠️ Etto dakte hoi amar Boss tare..amar boss shodo amr disturb korba nah..😑"];
