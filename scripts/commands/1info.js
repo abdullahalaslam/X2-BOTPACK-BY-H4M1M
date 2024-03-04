@@ -43,19 +43,19 @@ var link = [
 
 var callback = () => api.sendMessage({body:` ═════════════🄾🅆🄽🄴🅁════════════
 
-♻️OWNER : HAMIM AHMADX 
+♻️OWNER : Mr.Aslam
 
 👤GENDER : MALE
 
-🔰AGE : 17
+🔰AGE : Hidden
 
-🔰ADDRESS: CHATTOGRAM, BANGLADESH
+🔰ADDRESS: Dhaka, BANGLADESH
 
 ═══════════🄲🄾🄽🅃🄰🄲🅃════════════
 
 USE [ /admin ] FOR CONTACT
 
-🔰WEBSITE: https://hamim-website.h4m1mx2.repl.co/
+🔰Facebook [https://www.facebook.com/as.bd.editor.aslam.editz.9x]
 
 USE [ /admin ] FOR CONTACT
 
